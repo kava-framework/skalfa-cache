@@ -16,7 +16,7 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
-    "@skalfa/skalfa-redis": "file:../skalfa-redis"
+    "@skalfa/skalfa-redis": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^26.0.0",
